@@ -335,6 +335,7 @@ body>.navbar .brand:hover {
 .section-header {
 	text-align: center;
 	margin-bottom: 35px;
+	background:#4682B4;
 }
 
 .section-header h1,
