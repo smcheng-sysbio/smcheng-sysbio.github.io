@@ -9,9 +9,6 @@ p1:before{
        content:counter(my)'.';
 }
 
-/* 传统布局CSS */ 
-#header{ width:300px; height:70px; background:#4682B4}
-
 /* Custom container */
 
 .container {
